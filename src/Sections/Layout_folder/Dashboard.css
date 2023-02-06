@@ -1,0 +1,15 @@
+.theSider{
+    height: 100vh;
+}
+.theContent{
+    height: 70vh;
+}
+.theHeader{
+    height: 13vh !important;
+    /* background-color: red !important; */
+}
+.hamburgerIcon{
+    margin: 10;
+    font-size: 5vh;
+    cursor: pointer;
+}
